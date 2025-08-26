@@ -1,5 +1,4 @@
-# 3D-Virtual-Human-Modeling-Visualization
-
+# 실행 영상
 https://github.com/user-attachments/assets/6901c2b9-8c1e-4939-81c3-59197ec4f3d7
 
 이 프로젝트는 OpenGL을 사용하여 간단한 3D 가상 인간(virtual human) 모델을 구현하고 시각화했습니다.
